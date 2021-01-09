@@ -8,7 +8,7 @@ now re-doing the experiment with Dragon 15 to see if it *might* work for me & my
 
 ## Equipment available
 
-- Focusrite 18i20 (the first generation; wworks *great*)
+- Focusrite 18i20 (the first generation; works *great*)
 - Behringer B-5 microphone
   + there's also an AKG around, but that one is currently back into its box. Anyway, the B-5 is fine for recordings and I'm happy with the mic stands/layout as they are right now in my home room. Sticking with the B-5 here.)
 - misc. audio gear, speakers, various headphones (Sennheiser, Beyer Dynamic, Grado)  
